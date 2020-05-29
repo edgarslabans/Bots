@@ -2,4 +2,4 @@
 Various bots for autmatising the boring tasks
 
 AddCloser.py - closes the add screens in the Android games by looking for x
-KingOfA.py - sents automatic raids on monsters
+KingsOfABot.py - sents automatic raids on monsters
